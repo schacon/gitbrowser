@@ -34,6 +34,7 @@ template :stylesheet do
   .message
     padding: 8px
   .sha
+    color: #448
     font-family: monospace"
 end
 
