@@ -1,0 +1,3 @@
+[submodule "grit"]
+	path = grit
+	url = git@github.com:githubuser/grit.git
